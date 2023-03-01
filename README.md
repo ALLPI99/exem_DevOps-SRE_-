@@ -1,1 +1,2 @@
-# exem_DevOps-SRE_-
+# exem_DevOps&SRE_이지은
+# 
